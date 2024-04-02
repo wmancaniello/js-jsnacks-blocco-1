@@ -12,13 +12,13 @@
 
 ### **JSnack 4**
 - In un array sono contenuti i nomi degli invitati alla festa del grande Gatsby:
-    - chiedi all'utente il suo nome;
-    - comunicagli se può partecipare o no alla festa.
+    - [ ] Chiedi all'utente il suo nome;
+    - [ ] comunicagli se può partecipare o no alla festa.
 
 ### **JSnack 5**
 - [ ] Crea un array vuoto;
 - [ ] Chiedi per 6 volte all'utente di inserire un numero;
-- [ ] se è dispari inseriscilo nell'array.
+- [ ] Se è dispari inseriscilo nell'array.
 
 ### **JSnack 6**
 - [ ] **`n`** è un numero indicato dall'utente;
