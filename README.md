@@ -21,12 +21,12 @@
 - [?] Se è dispari inseriscilo nell'array.
 
 ### **JSnack 6**
-- [ ] **`n`** è un numero indicato dall'utente;
-- [ ] Stampa il cubo dei primi **`n`** numeri.
+- [x] **`n`** è un numero indicato dall'utente;
+- [x] Stampa il cubo dei primi **`n`** numeri.
 
 
 ### **JSnack 7**
-- [ ] Stampa le potenze di 2 fino a 1000.
+- [x] Stampa le potenze di 2 fino a 1000.
 
 ### **JSnack 8**
 - [ ] Chiedi un numero di 4 cifre all'utente;
