@@ -7,3 +7,9 @@ const userNumber = parseInt(
 );
 
 // LOGICA della SOMMA
+//  Dichiaro la variabile somma pari a 0, utilizzata come variabile d'appoggio
+let sommaNumeri = 0;
+
+//  ??
+
+console.log(`La somma delle cifre del numero è ${sommaNumeri}`);
