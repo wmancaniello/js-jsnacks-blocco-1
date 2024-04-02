@@ -7,13 +7,13 @@
 - [x] Il software stampa prima la parola più corta, poi la parola più lunga.
 
 ### **JSnack 3**
-- [ ] Il software deve chiedere per 10 volte all'utente di inserire un numero;
-- [ ] Il programma stampa la somma di tutti i numeri inseriti.
+- [x] Il software deve chiedere per 10 volte all'utente di inserire un numero;
+- [x] Il programma stampa la somma di tutti i numeri inseriti.
 
 ### **JSnack 4**
 - In un array sono contenuti i nomi degli invitati alla festa del grande Gatsby:
-    - [ ] Chiedi all'utente il suo nome;
-    - [ ] comunicagli se può partecipare o no alla festa.
+    - [x] Chiedi all'utente il suo nome;
+    - [x] Comunicagli se può partecipare o no alla festa.
 
 ### **JSnack 5**
 - [ ] Crea un array vuoto;
